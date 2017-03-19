@@ -3,6 +3,7 @@
     "description": "Laravel REST api helpers",
     "keywords": ["laravel", "api", "REST"],
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Igor Zupet",
